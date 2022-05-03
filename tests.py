@@ -7,6 +7,8 @@ import sys
 
 import soluciones
 
+import preguntas
+
 # import preguntas
 preguntas = soluciones
 
